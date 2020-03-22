@@ -4,7 +4,7 @@
 Как установить
 -
 
-Скачать последнюю [версию](https://github.com/solo-framework/datetime2image/releases)  и распаковать архив
+Скачать последнюю [версию](https://github.com/solo-framework/datetime2image/releases) (datetime2image-v.X.X.X.zip) и распаковать архив
 
 Как использовать
 -
